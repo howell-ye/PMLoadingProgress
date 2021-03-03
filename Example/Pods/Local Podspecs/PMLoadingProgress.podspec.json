@@ -1,0 +1,22 @@
+{
+  "name": "PMLoadingProgress",
+  "version": "0.1.0",
+  "summary": "A short description of PMLoadingProgress.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/howell-ye/PMLoadingProgress",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "howell_ye": "19802021325@139.com"
+  },
+  "source": {
+    "git": "https://github.com/howell-ye/PMLoadingProgress.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PMLoadingProgress/Classes/**/*"
+}

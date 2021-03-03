@@ -1,0 +1,16 @@
+PODS:
+  - PMLoadingProgress (0.1.0)
+
+DEPENDENCIES:
+  - PMLoadingProgress (from `../`)
+
+EXTERNAL SOURCES:
+  PMLoadingProgress:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PMLoadingProgress: 372ad2130a2f54c6704f1cc74ba7fa293a927089
+
+PODFILE CHECKSUM: c8a44a35020a24071cbeec8b35f8db87edebbf37
+
+COCOAPODS: 1.9.3
